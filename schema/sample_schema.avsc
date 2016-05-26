@@ -1,0 +1,12 @@
+{
+   "namespace": "distributed.coordination",
+   "type": "record",
+   "name": "personalInfo",
+   "fields": [
+      {"name": "first_name", "type": "string"},
+      {"name": "last_name", "type": "string"},
+      {"name": "address", "type": "string"},
+      {"name": "age", "type": "int"},
+      {"name": "gender", "type": "string"}
+   ]
+}
